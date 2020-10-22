@@ -1,0 +1,19 @@
+{
+    "name": "arvelid/random-character",
+    "license": "MIT",
+    "version": "0.0.1",
+    "type": "library",
+    "description": "Random character library.",
+    "authors": [
+        {
+            "name": "Michael M Langitan",
+            "email": "michaelmlangitan@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Arvelid\\RandomCharacter\\": "src"
+        }
+    }
+}
